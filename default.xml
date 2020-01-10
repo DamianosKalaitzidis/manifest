@@ -12,4 +12,4 @@
             sync-c="true"
 	        sync-j="4" />
 	
-	<project name="DamianosKalaitzidis/ROS_Code" path="src/" />
+	<project name="DamianosKalaitzidis/ROS_Code" path="src/ROS_Code"/>
