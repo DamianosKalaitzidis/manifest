@@ -12,5 +12,5 @@
             sync-c="true"
 	        sync-j="4" />
 	
-	<project name="DamianosKalaitzidis/ROS_Code" path="src/Demeter_Robot"/>
+	<project name="DamianosKalaitzidis/CoordinatesConverter " path="CoordinatesConverter"/>
 </manifest>
