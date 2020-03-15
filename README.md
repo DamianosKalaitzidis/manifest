@@ -1,2 +1,2 @@
 # manifest
-repo init -u git://github.com/DamianosKalaitzidis/manifest.git -b demeter-robot
+repo init -u git://github.com/DamianosKalaitzidis/manifest.git -b android
