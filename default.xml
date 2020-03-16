@@ -7,7 +7,7 @@
    <remote name="private"
    		   fetch="ssh://git@github.com" />
 	   
-   <default revision="refs/heads/master"
+   <default revision="refs/heads/android"
             remote="private"
             sync-c="true"
 	        sync-j="4" />
